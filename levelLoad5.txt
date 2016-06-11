@@ -1,0 +1,25 @@
+*Mario Level text file*
+*Block types ground1(g), ground2(r), blocksmash (s), itembox(i), normalblock(n)*
+*Input order; block type, xStart, xFinish, yStart, yFinish*
+*must be 000,000,000,000*
+
+/g,  0, 32, 22, 22/
+/r,  0, 32, 23, 23/
+/s,  0, 32, 19, 19/
+/s,  0, 32, 15, 15/
+/s,  0, 32, 11, 11/
+/s,  0, 32,  7,  7/
+/s,  0, 32,  3,  3/
+#
+
+
+
+
+
+
+
+
+
+
+
+
